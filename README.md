@@ -1,13 +1,19 @@
-# TryHackMe Labs  
-A growing collection of my TryHackMe learning notes and lab writeups.  
-Right now, I’m working through the foundational, free rooms — many of which are reading‑based and focused on core concepts. As I progress into more hands‑on rooms, I’ll begin adding full writeups.
+# TryHackMe Writeups & Learning Notes
+
+A growing collection of my TryHackMe learning notes and future lab writeups.  
+Right now, I’m working through the foundational, free rooms — many of which are reading‑based and focused on core cybersecurity concepts. As I progress into more hands‑on rooms, I’ll begin adding structured writeups.
+
+![Status](https://img.shields.io/badge/Repo_Status-Active-brightgreen)
+![Platform](https://img.shields.io/badge/Platform-TryHackMe-blue)
+![Focus](https://img.shields.io/badge/Focus-Cybersecurity-orange)
 
 ---
 
 ## 📁 Lab Index
 
-### **Foundations (Reading-Based / Conceptual Rooms)**
-These rooms are primarily educational and help build core cybersecurity knowledge.
+### **Foundational Rooms (Reading-Based / Conceptual)**
+These rooms build core knowledge but don’t require full writeups.  
+I’m using them to strengthen fundamentals before moving into hands‑on analysis.
 
 - *Introduction to Cybersecurity* — In progress  
 - *Cybersecurity Basics* — In progress  
@@ -15,12 +21,12 @@ These rooms are primarily educational and help build core cybersecurity knowledg
 - *Linux Fundamentals Part 1* — Planned  
 - *Linux Fundamentals Part 2* — Planned  
 
-*(These rooms don’t require full writeups, but I may add short notes as needed.)*
+*(Short notes may be added as needed.)*
 
 ---
 
 ### **Hands-On Rooms (Writeups Coming Later)**
-These are the rooms where I’ll begin producing structured writeups once I reach them.
+These are the rooms where I’ll begin producing structured writeups using my lab template.
 
 - *Basic Pentesting* — Planned  
 - *Blue* — Planned  
@@ -29,6 +35,25 @@ These are the rooms where I’ll begin producing structured writeups once I reac
 
 ---
 
-## 🧠 About This Section
-TryHackMe’s free rooms are mostly conceptual, so I’m using them to build foundational knowledge before moving into hands‑on analysis and enumeration.  
-As I progress into more technical rooms, I’ll begin adding full writeups using my lab template.
+## 🧠 About This Repository
+
+TryHackMe’s free rooms are primarily educational and help build foundational cybersecurity knowledge.  
+My goal here is to:
+
+- document my progress  
+- capture key concepts  
+- build confidence with Linux, networking, and enumeration  
+- prepare for more hands‑on labs later  
+
+As I move into technical rooms, I’ll begin adding full writeups using the same structure I use in my HackerDNA repository.
+
+---
+
+## 🧩 Writeup Template (For Future Labs)
+
+I use the same template across platforms to keep my documentation consistent.  
+You can find it in my HackerDNA repository:
+
+➡️ `/HackerDNA-Writeups/Lab-Writeup-Template.md`
+
+This template will be used once I reach hands‑on rooms that require deeper analysis.
