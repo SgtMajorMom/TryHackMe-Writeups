@@ -1,5 +1,15 @@
 # TryHackMe Writeups & Learning Notes
 
+![Status](https://img.shields.io/badge/Repo_Status-Active-brightgreen)
+![Platform](https://img.shields.io/badge/Platform-TryHackMe-blue)
+![Focus](https://img.shields.io/badge/Focus-Cybersecurity-orange)
+![Progress](https://img.shields.io/badge/Progress-Ongoing-yellow)
+
+| Category        | Completed | In Progress | Planned |
+|-----------------|-----------|-------------|---------|
+| Modules         | 2         | 1           | 2       |
+| Walkthroughs    | 0         | 0           | 4       |
+
 A structured record of my TryHackMe progress.  
 This repo separates foundational learning modules from hands‑on walkthroughs so I can document my growth clearly and consistently.
 
