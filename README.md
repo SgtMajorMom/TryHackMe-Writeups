@@ -1,59 +1,63 @@
 # TryHackMe Writeups & Learning Notes
 
-A growing collection of my TryHackMe learning notes and future lab writeups.  
-Right now, I’m working through the foundational, free rooms — many of which are reading‑based and focused on core cybersecurity concepts. As I progress into more hands‑on rooms, I’ll begin adding structured writeups.
-
-![Status](https://img.shields.io/badge/Repo_Status-Active-brightgreen)
-![Platform](https://img.shields.io/badge/Platform-TryHackMe-blue)
-![Focus](https://img.shields.io/badge/Focus-Cybersecurity-orange)
+A structured record of my TryHackMe progress.  
+This repo separates foundational learning modules from hands‑on walkthroughs so I can document my growth clearly and consistently.
 
 ---
 
-## 📁 Lab Index
+## 📚 Modules (Foundational Learning Paths)
 
-### **Foundational Rooms (Reading-Based / Conceptual)**
-These rooms build core knowledge but don’t require full writeups.  
-I’m using them to strengthen fundamentals before moving into hands‑on analysis.
+These rooms are mostly reading‑based and help build core cybersecurity knowledge.  
+I log completion status and short descriptions — no full writeups needed at this stage.
 
-- *Introduction to Cybersecurity* — In progress  
-- *Cybersecurity Basics* — In progress  
-- *Network Fundamentals* — In progress  
-- *Linux Fundamentals Part 1* — Planned  
-- *Linux Fundamentals Part 2* — Planned  
+### **Beginner Level**
+- **Introduction to Cybersecurity** — Completed  
+  *Overview of cybersecurity concepts, threats, and defensive principles.*
 
-*(Short notes may be added as needed.)*
+- **Cybersecurity Basics** — Completed  
+  *Covers terminology, attack types, and basic security models.*
+
+- **Network Fundamentals** — In Progress  
+  *Explains networking layers, protocols, and packet flow.*
+
+- **Linux Fundamentals Part 1** — Planned  
+  *Covers Linux navigation, permissions, and basic commands.*
+
+- **Linux Fundamentals Part 2** — Planned  
+  *Expands into file operations, processes, and system management.*
+
+*(More modules will be added as I progress.)*
 
 ---
 
-### **Hands-On Rooms (Writeups Coming Later)**
-These are the rooms where I’ll begin producing structured writeups using my lab template.
+## 🧪 Walkthroughs (Hands‑On Rooms)
 
-- *Basic Pentesting* — Planned  
-- *Blue* — Planned  
-- *Mr. Robot* — Planned  
-- *Vulnerability Capstone* — Planned  
+These rooms involve real investigation, enumeration, exploitation, or analysis.  
+I will use my **Lab Writeup Template** for these once I reach them.
+
+### **Beginner Hands‑On**
+- **Basic Pentesting** — Planned  
+  *Intro to enumeration, SSH brute forcing, and privilege escalation.*
+
+- **Blue** — Planned  
+  *SMB vulnerability exploitation and post‑exploitation basics.*
+
+- **Mr. Robot** — Planned  
+  *CTF‑style room involving enumeration, web exploitation, and privilege escalation.*
+
+### **SOC / Analysis Rooms**
+- **Vulnerability Capstone** — Planned  
+  *Hands‑on vulnerability identification and remediation workflow.*
+
+*(Writeups will be added as I complete these rooms.)*
 
 ---
 
 ## 🧠 About This Repository
 
-TryHackMe’s free rooms are primarily educational and help build foundational cybersecurity knowledge.  
-My goal here is to:
+TryHackMe’s free modules are primarily conceptual, so I’m using them to build foundational knowledge before moving into hands‑on analysis.  
+As I progress into more technical rooms, I’ll begin adding full writeups using my lab template.
 
-- document my progress  
-- capture key concepts  
-- build confidence with Linux, networking, and enumeration  
-- prepare for more hands‑on labs later  
-
-As I move into technical rooms, I’ll begin adding full writeups using the same structure I use in my HackerDNA repository.
-
----
-
-## 🧩 Writeup Template (For Future Labs)
-
-I use the same template across platforms to keep my documentation consistent.  
-You can find it in my HackerDNA repository:
-
-➡️ `/HackerDNA-Writeups/Lab-Writeup-Template.md`
-
-This template will be used once I reach hands‑on rooms that require deeper analysis.
+➡️ **Lab Writeup Template:**  
+This template is used across all my cybersecurity lab writeups to keep documentation consistent and professional.
+`/HackerDNA-Writeups/Lab-Writeup-Template.md`
