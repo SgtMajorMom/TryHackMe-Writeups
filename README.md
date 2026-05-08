@@ -8,7 +8,7 @@
 | Category        | Completed | In Progress | Planned |
 |-----------------|-----------|-------------|---------|
 | Modules         | 12        | 0           | (add any future ones) |
-| Walkthroughs    | 0         | 0           | 4       |
+| Walkthroughs    | 22        | 0           | 4       |
 
 
 A structured record of my TryHackMe progress.  
