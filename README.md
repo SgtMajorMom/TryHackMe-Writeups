@@ -7,8 +7,9 @@
 
 | Category        | Completed | In Progress | Planned |
 |-----------------|-----------|-------------|---------|
-| Modules         | 2         | 1           | 2       |
+| Modules         | 12        | 0           | (add any future ones) |
 | Walkthroughs    | 0         | 0           | 4       |
+
 
 A structured record of my TryHackMe progress.  
 This repo separates foundational learning modules from hands‑on walkthroughs so I can document my growth clearly and consistently.
