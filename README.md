@@ -16,6 +16,57 @@ This repo separates foundational learning modules from hands‑on walkthroughs s
 
 ---
 
+# 📘 TryHackMe Write-Ups — Table of Contents
+
+A categorized collection of my completed TryHackMe labs, organized by learning path and security discipline.
+
+---
+
+## 🛡️ SOC Level 1
+Foundational defensive security labs focused on monitoring, detection, analysis, and incident response.
+
+- [Secure AI Systems](./SOC-Level-1/Secure-AI-Systems)
+
+---
+
+## 🕵️ Jr Penetration Tester
+Labs focused on enumeration, exploitation, privilege escalation, and web application testing.
+
+*(Labs will appear here as completed)*
+
+---
+
+## 🔥 Red Team
+Labs focused on adversarial simulation, evasion, and offensive tradecraft.
+
+*(Labs will appear here as completed)*
+
+---
+
+## 🤖 AI Security
+Labs focused on securing AI/ML systems, prompt safety, and model abuse prevention.
+
+*(Labs will appear here as completed)*
+
+---
+
+## 📚 Foundations
+Beginner-friendly labs covering core cybersecurity concepts.
+
+*(Labs will appear here as completed)*
+
+---
+
+## 📌 Notes
+Each folder contains:
+- A README.md with a clean write-up  
+- A PDF version for recruiters  
+- Badges and headers for visual clarity  
+
+This structure mirrors real SOC and pentesting documentation workflows.
+
+---
+
 ## 📚 Modules (Foundational Learning Paths)
 
 These rooms are mostly reading‑based and help build core cybersecurity knowledge.  
