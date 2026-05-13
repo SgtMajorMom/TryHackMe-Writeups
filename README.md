@@ -57,16 +57,6 @@ Beginner-friendly labs covering core cybersecurity concepts.
 
 ---
 
-## 📌 Notes
-Each folder contains:
-- A README.md with a clean write-up  
-- A PDF version for recruiters  
-- Badges and headers for visual clarity  
-
-This structure mirrors real SOC and pentesting documentation workflows.
-
----
-
 ## 📚 Modules (Foundational Learning Paths)
 
 These rooms are mostly reading‑based and help build core cybersecurity knowledge.  
@@ -120,6 +110,18 @@ I will use my **Lab Writeup Template** for these once I reach them.
 TryHackMe’s free modules are primarily conceptual, so I’m using them to build foundational knowledge before moving into hands‑on analysis.  
 As I progress into more technical rooms, I’ll begin adding full writeups using my lab template.
 
+---
+
 ➡️ **Lab Writeup Template:**  
 This template is used across all my cybersecurity lab writeups to keep documentation consistent and professional.
 `/HackerDNA-Writeups/Lab-Writeup-Template.md`
+
+---
+
+## 📌 Notes
+Each folder contains:
+- A README.md with a clean write-up  
+- A PDF version for recruiters  
+- Badges and headers for visual clarity  
+
+This structure mirrors real SOC and pentesting documentation workflows.
