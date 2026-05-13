@@ -11,117 +11,88 @@
 | Walkthroughs    | 22        | 10          | 4       |
 
 
-A structured record of my TryHackMe progress.  
-This repo separates foundational learning modules from hands‑on walkthroughs so I can document my growth clearly and consistently.
+A curated, organized collection of my completed TryHackMe labs & walkthroughs — written with clarity, structure, and a defender’s mindset.  
+This repository grows as I grow, one lab at a time.
 
 ---
 
-# 📘 TryHackMe Write-Ups — Table of Contents
-
-A categorized collection of my completed TryHackMe labs, organized by learning path and security discipline.
+## 🧭 Learning Paths & Categories  
+Every lab is placed under a **primary category**, even if it overlaps multiple disciplines.  
+This keeps the repository clean, scalable, and easy to navigate.
 
 ---
 
-## 🛡️ SOC Level 1
-Foundational defensive security labs focused on monitoring, detection, analysis, and incident response.
+## 🛡️ SOC Level 1  
+Defensive security, monitoring, detection, analysis, and incident response.
 
 - [Secure AI Systems](./SOC-Level-1/Secure-AI-Systems)
 
 ---
 
-## 🕵️ Jr Penetration Tester
-Labs focused on enumeration, exploitation, privilege escalation, and web application testing.
+## 🔵 Blue Team  
+Defensive operations beyond SOC fundamentals, including forensics, threat hunting, malware basics, and network analysis.
 
 *(Labs will appear here as completed)*
 
 ---
 
-## 🔥 Red Team
-Labs focused on adversarial simulation, evasion, and offensive tradecraft.
+## 🕵️ Jr Penetration Tester  
+Enumeration, exploitation, privilege escalation, and web application testing.
 
 *(Labs will appear here as completed)*
 
 ---
 
-## 🤖 AI Security
+## 🔥 Red Team  
+Adversarial simulation, evasion, and offensive tradecraft.
+
+*(Labs will appear here as completed)*
+
+---
+
+## 🤖 AI Security  
 Labs focused on securing AI/ML systems, prompt safety, and model abuse prevention.
 
 *(Labs will appear here as completed)*
 
 ---
 
-## 📚 Foundations
-Beginner-friendly labs covering core cybersecurity concepts.
+## ☁️ Cloud Security  
+Identity, access management, Azure/AWS fundamentals, SaaS security, and cloud threat modeling.
 
 *(Labs will appear here as completed)*
 
 ---
 
-## 📚 Modules (Foundational Learning Paths)
+## 🌐 Web Application Security  
+OWASP Top 10, Burp Suite, injection flaws, and web exploitation techniques.
 
-These rooms are mostly reading‑based and help build core cybersecurity knowledge.  
-I log completion status and short descriptions — no full writeups needed at this stage.
-
-### **Beginner Level**
-- **Introduction to Cybersecurity** — Completed  
-  *Overview of cybersecurity concepts, threats, and defensive principles.*
-
-- **Cybersecurity Basics** — Completed  
-  *Covers terminology, attack types, and basic security models.*
-
-- **Network Fundamentals** — In Progress  
-  *Explains networking layers, protocols, and packet flow.*
-
-- **Linux Fundamentals Part 1** — Planned  
-  *Covers Linux navigation, permissions, and basic commands.*
-
-- **Linux Fundamentals Part 2** — Planned  
-  *Expands into file operations, processes, and system management.*
-
-*(More modules will be added as I progress.)*
+*(Labs will appear here as completed)*
 
 ---
 
-## 🧪 Walkthroughs (Hands‑On Rooms)
+## 📚 Foundations  
+Beginner-friendly labs covering core cybersecurity concepts.
 
-These rooms involve real investigation, enumeration, exploitation, or analysis.  
-I will use my **Lab Writeup Template** for these once I reach them.
+*(Labs will appear here as completed)*
 
-### **Beginner Hands‑On**
-- **Basic Pentesting** — Planned  
-  *Intro to enumeration, SSH brute forcing, and privilege escalation.*
-
-- **Blue** — Planned  
-  *SMB vulnerability exploitation and post‑exploitation basics.*
-
-- **Mr. Robot** — Planned  
-  *CTF‑style room involving enumeration, web exploitation, and privilege escalation.*
-
-### **SOC / Analysis Rooms**
-- **Vulnerability Capstone** — Planned  
-  *Hands‑on vulnerability identification and remediation workflow.*
-
-*(Writeups will be added as I complete these rooms.)*
 
 ---
 
-## 🧠 About This Repository
+# 🧩 How This Repo Works  
+Each lab folder contains:
 
-TryHackMe’s free modules are primarily conceptual, so I’m using them to build foundational knowledge before moving into hands‑on analysis.  
-As I progress into more technical rooms, I’ll begin adding full writeups using my lab template.
-
----
-
-➡️ **Lab Writeup Template:**  
-This template is used across all my cybersecurity lab writeups to keep documentation consistent and professional.
-`/HackerDNA-Writeups/Lab-Writeup-Template.md`
-
----
-
-## 📌 Notes
-Each folder contains:
-- A README.md with a clean write-up  
-- A PDF version for recruiters  
-- Badges and headers for visual clarity  
+- A **README.md** with a clean, structured write-up  
+- A **PDF version** for recruiters and portfolio use  
+- A consistent format using my personal **Lab Write-Up Template**  
+- Metadata showing the lab’s **primary** and **secondary** categories  
 
 This structure mirrors real SOC and pentesting documentation workflows.
+
+---
+
+# 📝 Notes  
+This repository is intentionally designed to grow over time.  
+As I complete more rooms, I’ll continue expanding each category and refining the structure.
+
+
