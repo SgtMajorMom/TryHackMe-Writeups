@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/TryHackMe-Secure%20AI%20Systems-8A2BE2?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Secure AI Systems Banner">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square">
+  <img src="https://img.shields.io/badge/Difficulty-Easy--Medium-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Category-AI%20Security-purple?style=flat-square">
+</p>
+
+
 # 🧠 Secure AI Systems — TryHackMe Write-Up
 
 **Platform:** TryHackMe  
