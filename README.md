@@ -26,7 +26,8 @@ This keeps the repository clean, scalable, and easy to navigate.
 ## 🛡️ SOC Level 1  
 Defensive security, monitoring, detection, analysis, and incident response.
 
-- [Secure AI Systems](./SOC-Level-1/Secure-AI-Systems)
+- [Secure AI Systems](https://github.com/SgtMajorMom/TryHackMe-Writeups/blob/main/SOC-Level-1/Secure-AI-Systems/Secure%20AI%20Systems.pdf)
+
 
 ---
 
